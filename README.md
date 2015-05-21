@@ -12,12 +12,14 @@ Official releases of this add-on are available at Vaadin Directory. For Maven in
 
 ## Building and running demo
 
-git clone <url of the MyComponent repository>
+```bash
+git clone https://github.com/vaadin4qbanos/vaadin-nvd3-charts-widget.git
 mvn clean install
 cd demo
 mvn jetty:run
+```
 
-To see the demo, navigate to http://localhost:8080/
+To see the demo, navigate to [http://localhost:8080/](http://localhost:8080/)
 
 ## Development with Eclipse IDE
 
