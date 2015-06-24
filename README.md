@@ -1,4 +1,4 @@
-# MyComponent Add-on for Vaadin 7
+# Component Add-on for Vaadin 7
 
 MyComponent is an UI component add-on for Vaadin 7.
 
